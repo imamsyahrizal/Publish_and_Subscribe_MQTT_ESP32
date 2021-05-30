@@ -14,5 +14,5 @@ Software :
 3. Node-RED Dashboard
 4. Mosquitto MQTT Broker
 <br>
-For flows 
-![Flows](https://user-images.githubusercontent.com/77771888/119972578-92b55600-bfdc-11eb-9254-ec33865bea96.png)
+For flows ![Flows Tugas 2](https://user-images.githubusercontent.com/77771888/120093849-1db25f80-c147-11eb-9c56-3a1167553119.png)
+<br>
