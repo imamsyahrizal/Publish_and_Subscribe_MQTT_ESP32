@@ -23,11 +23,11 @@
 DHT dht(DHTPIN, DHTTYPE); //definisi objek dht yang diperlukan untuk library DHT.h
 
 // Definisi WiFi
-const char* ssid = "HUAWEI-B311-2F1E";
-const char* password = "AT7TNA61YF1";
+const char* ssid = "GANTI DENGAN SSID WIFI";
+const char* password = "GANTI DENGAN PASSWORD WIFI";
 
 // Definisi IP mqtt broker
-const char* mqtt_server = "192.168.8.116";
+const char* mqtt_server = "GANTI DENGAN ALAMAT IP DEVICE YANG TERINSTAL BROKER ex 192.168.1.1";
 
 // Definisi objek WiFiClient dan PubSubClient
 WiFiClient espClient;
