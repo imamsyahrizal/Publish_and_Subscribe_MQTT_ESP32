@@ -3,7 +3,6 @@
 
   TUGAS Node-RED 2 
   Imam Syahrizal
-  18/424967/TK/46662
 
   Semua Serial.print hanya sebagai informasi tambahan yang akan dikirim ke PC, tidak sebagai sarana transfer data
 *********/
